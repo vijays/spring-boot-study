@@ -1,4 +1,4 @@
-package com.vijays.springbootstudy.controller;
+package com.vijays.springbootstudy.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
