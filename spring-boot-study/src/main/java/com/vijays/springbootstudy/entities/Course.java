@@ -1,3 +1,5 @@
+// Class implementing course object
+
 package com.vijays.springbootstudy.entities;
 
 public class Course {
